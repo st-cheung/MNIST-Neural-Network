@@ -1,5 +1,4 @@
-# MNIST-Neural-Network
-Handwritten Digit Classification with Neural Networks
+# Handwritten Digit Classification with Neural Networks
 
 ## Overview
 A MATLAB implementation of a feed-forward neural network for handwritten digit classification using the MNIST dataset.
