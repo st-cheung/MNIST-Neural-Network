@@ -17,12 +17,12 @@ This project was completed as my undergraduate final-year project, with the impl
 - The final model achieved approximately 98% accuracy on the MNIST test set.
 
 ### Effect of Regularisation
-
-The training curves compare the performance of the unregularised and regularised networks, showing how regularisation affected training behaviour.
+The training curves compare the performance of the unregularised (left) and regularised (right) networks, showing how regularisation affected training behaviour.
+![Error rates for the unregularised (left) and regularised (right) networks over the training (blue) and validation (red) sets](/results/regularisation_error.png)
 
 ### Confusion Matrix
-
 The confusion matrix shows the classification performance of the final model across the ten digit classes.
+![Confusion matrix for the final model](/results/confusion_matrix.png)
 
 ## Files
 - neural_net.m - main neural network implementation and training procedure.
