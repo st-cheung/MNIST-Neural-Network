@@ -32,7 +32,3 @@ The confusion matrix shows the classification performance of the final model acr
 - backprop.m - performs backpropagation through the network.
 - cost_function.m - defines the objective used to evaluate the network's predictions.
 - leaky_relu.m - implements the Leaky ReLU activation function.
-
-## Academic Context
-Undergraduate final-year project at The University of Manchester.
- 
