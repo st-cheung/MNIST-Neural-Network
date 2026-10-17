@@ -16,5 +16,23 @@ This project was completed as my undergraduate final-year project, with the impl
 ## Results
 - The final model achieved approximately 98% accuracy on the MNIST test set.
 
+### Effect of Regularisation
+
+The training curves compare the performance of the unregularised and regularised networks, showing how regularisation affected training behaviour.
+
+### Confusion Matrix
+
+The confusion matrix shows the classification performance of the final model across the ten digit classes.
+
+## Files
+- neural_net.m - main neural network implementation and training procedure.
+- MNIST_classifier.m - loads the MNIST dataset and runs the classification experiment.
+- load_MNIST.m - converts the MNIST data into vectorised inputs suitable for the neural network.
+- forward_prop.m - performs forward propagation through the network.
+- backprop.m - performs backpropagation through the network.
+- cost_function.m - defines the objective used to evaluate the network's predictions.
+- leaky_relu.m - implements the Leaky ReLU activation function.
+
 ## Academic Context
 Undergraduate final-year project at The University of Manchester.
+ 
