@@ -3,7 +3,7 @@
 ## Overview
 A MATLAB implementation of a feed-forward neural network for handwritten digit classification using the MNIST dataset.
 
-This project was completed as my undergraduate final-year project, with the implementation developed by me under academic supervision. I investigated how network design and training choices affected classification performance.
+This project was completed as my undergraduate final-year project. I developed the implementation and investigated how network design and training choices affected classification performance. 
 
 ## Approach
 - Implemented a feed-forward neural network with backpropagation and stochastic gradient descent.
