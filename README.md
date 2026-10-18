@@ -6,14 +6,14 @@ A MATLAB implementation of a feed-forward neural network for handwritten digit c
 This project was completed as my undergraduate final-year project. I developed the implementation and investigated how network design and training choices affected classification performance. 
 
 ## Approach
-- Implemented a feed-forward neural network with backpropagation and stochastic gradient descent.
+Implemented a feed-forward neural network with backpropagation and stochastic gradient descent.
 
-- Experimented with network architecture, training parameters and regularisation.
+Experimented with network architecture, training parameters and regularisation.
 
-- Evaluated model performance on unseen data and analysed experimental results.
+Evaluated model performance on unseen data and analysed experimental results.
 
 ## Results
-- The final model achieved approximately 98% accuracy on the MNIST test set.
+The final model achieved approximately 98% accuracy on the MNIST test set.
 
 ### Effect of Regularisation
 The training curves compare the performance of the unregularised (left) and regularised (right) networks, showing how regularisation affected training behaviour.
