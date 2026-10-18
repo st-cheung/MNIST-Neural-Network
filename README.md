@@ -32,3 +32,4 @@ The repository contains MATLAB scripts and functions for:<br/>
 `backprop.m` - performs backpropagation through the network.<br/>
 `cost_function.m` - defines the objective function used to evaluate the network's predictions.<br/>
 `leaky_relu.m` - implements the Leaky ReLU activation function.<br/>
+`learning_rate.m` - performs the learning rate adjustments.<br/>
