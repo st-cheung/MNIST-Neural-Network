@@ -12,6 +12,16 @@ Experimented with activation functions, training parameters and regularisation, 
 
 Evaluated model performance on unseen data and analysed experimental results.
 
+## How to Run
+
+1. Download the four MNIST dataset files from the [MNIST dataset mirror](https://github.com/cvdfoundation/mnist).
+
+2. Extract the downloaded .gz files and place them in the working directory.
+
+3. Open the project in MATLAB and run MNIST_classifier.m from the src/ directory.
+
+The script loads the dataset, trains the neural network and runs the classification experiments.
+
 ## Results
 The final model achieved approximately 98% accuracy on the MNIST test set.
 
