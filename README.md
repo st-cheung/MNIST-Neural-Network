@@ -8,7 +8,7 @@ This project was completed as my undergraduate final-year project. I developed t
 ## Approach
 Implemented a feed-forward neural network with backpropagation and stochastic gradient descent.
 
-Experimented with network architecture, training parameters and regularisation.
+Experimented with activation functions, training parameters and regularisation, with a particular focus on the effect of regularisation on generalisation.
 
 Evaluated model performance on unseen data and analysed experimental results.
 
