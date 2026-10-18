@@ -24,11 +24,11 @@ The confusion matrix shows the classification performance of the final model acr
 ![Confusion matrix for the final model](/results/confusion_matrix.png)
 
 ## Files
-The repository contains MATLAB scripts and functions for:
-- `neural_net.m` - main neural network implementation and training procedure.
-- `MNIST_classifier.m` - loads the MNIST dataset and runs the classification experiments.
-- `load_MNIST.m` - converts the MNIST data into vectorised inputs suitable for the neural network.
-- `forward_prop.m` - performs forward propagation through the network.
-- `backprop.m` - performs backpropagation through the network.
-- `cost_function.m` - defines the objective function used to evaluate the network's predictions.
-- `leaky_relu.m` - implements the Leaky ReLU activation function.
+The repository contains MATLAB scripts and functions for:<br/>
+`neural_net.m` - main neural network implementation and training procedure. <br/>
+`MNIST_classifier.m` - loads the MNIST dataset and runs the classification experiments.<br/>
+`load_MNIST.m` - converts the MNIST data into vectorised inputs suitable for the neural network.<br/>
+`forward_prop.m` - performs forward propagation through the network.<br/>
+`backprop.m` - performs backpropagation through the network.<br/>
+`cost_function.m` - defines the objective function used to evaluate the network's predictions.<br/>
+`leaky_relu.m` - implements the Leaky ReLU activation function.<br/>
